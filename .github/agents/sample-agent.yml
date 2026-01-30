@@ -1,0 +1,6 @@
+name: specify-copilot-agent
+description: "Agente de ejemplo para inicializar archivos de specify"
+prompt: .github/prompts/agent_prompt.md
+run:
+  script: .specify/scripts/powershell/init.ps1
+  shell: powershell

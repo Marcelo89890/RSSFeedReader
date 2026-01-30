@@ -1,0 +1,6 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "specify.cliPath": "specify",
+    "specify.autoInitOnOpen": false,
+    "editor.formatOnSave": true
+}
